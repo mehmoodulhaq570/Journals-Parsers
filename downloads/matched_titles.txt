@@ -1,0 +1,3 @@
+AWNN-Assisted wind power forecasting using feed-forward neural network
+Hybrid forecasting model for very-short term wind power forecasting based on grey relational analysis and wind speed distribution features
+Ensemble recurrent neural network based probabilistic wind speed forecasting approach

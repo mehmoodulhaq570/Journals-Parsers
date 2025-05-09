@@ -1,12 +1,33 @@
-A Multistep Direct and Indirect Strategy for Predicting Wind Direction Based on the EMD-LSTM Model
-Wind Speed Forecast Based on the LSTM Neural Network Optimized by the Firework Algorithm
-Forecasting surface wind speeds over offshore islands near Taiwan during tropical cyclones: Comparisons of data-driven algorithms and parametric wind representations
-Short-term Wind Speed Prediction Based on Grey System Theory Model in the Region of China
-Quantile deep learning model and multi-objective opposition elite marine predator optimization algorithm for wind speed
-An improved random forest model of short-term wind-power forecasting to enhance accuracy, efficiency, and robustness
-Development of ANN Model for Wind Speed Prediction as a Support for Early Warning System
-Support Vector Regression Method for Wind Speed Prediction Incorporating Probability Prior Knowledge
-Hybrid CNN-LSTM Deep Learning for Track-Wise GNSS-R Ocean Wind Speed Retrieval
-Short-term Wind Speed Prediction with a Two-layer Attention-based LSTM
-Spatio-temporal wind speed prediction based on Clayton Copula function with deep learning fusion
-Wind Speed Prediction Using Hybrid 1D CNN and BLSTM Network
+A new hybrid iterative method for short-term wind speed forecasting
+Using random forests to select optimal input variables for short-Term wind speed forecasting models
+A new hybrid approach for wind speed forecasting applying Support Vector Machine with ensemble empirical mode decomposition and Cuckoo Search Algorithm
+Hybrid forecasting model based on long short term memory network and deep learning neural network for wind signal
+Wind speed forecasting based on wavelet packet decomposition and artificial neural networks trained by crisscross optimization algorithm
+Wind Power Prediction Based on a Convolutional Neural Network
+A corrected hybrid approach for wind speed prediction in Hexi Corridor of China
+Short-term wind speed forecasting using empirical mode decomposition and feature selection
+A comparative study of optimal hybrid methods for wind power prediction in wind farm of Alberta, Canada
+Hourly Day-Ahead Wind Power Prediction Using the Hybrid Model of Variational Model Decomposition and Long Short-Term Memory
+A new strategy for predicting short-term wind speed using soft computing models
+Daily wind speed forecasting through hybrid KF-ANN model based on ARIMA
+AWNN-Assisted wind power forecasting using feed-forward neural network
+A novel neural network method for wind speed forecasting using exogenous measurements from agriculture stations
+A hybrid multi-step rolling forecasting model based on SSA and simulated annealing-adaptive particle swarm optimization for wind speed
+Wind Speed Forecasting Method Using EEMD and the Combination Forecasting Method Based on GPR and LSTM
+Hybrid forecasting model for very-short term wind power forecasting based on grey relational analysis and wind speed distribution features
+Short-term wind speed forecasting using artificial neural networks for Tehran, Iran
+Review of meta-heuristic algorithms for wind power prediction: Methodologies, applications and challenges
+Short-term wind speed forecasting based on a hybrid model
+The state of the art in short term prediction of wind power From an offshore perspective
+Research and application of an innovative combined model based on a modified optimization algorithm for wind speed forecasting
+A 5-day wind speed & power forecasts using a layer recurrent neural network (LRNN)
+A survey of artificial neural network in wind energy systems
+Grid Integration Challenges of Wind Energy: A Review
+Innovative Hybrid Modeling of Wind Speed Prediction Involving Time-Series Models and Artificial Neural Networks
+Ensemble recurrent neural network based probabilistic wind speed forecasting approach
+Short-term wind speed forecasting using deep reinforcement learning with improved multiple error correction approach
+Locally recurrent neural networks for wind speed prediction using spatial correlation
+A Hybrid Framework for Short Term Multi-Step Wind Speed Forecasting Based on Variational Model Decomposition and Convolutional Neural Network
+Medium-term wind speeds forecasting utilizing hybrid models for three different sites in Xinjiang, China
+Very short-term wind speed prediction: A new artificial neural network-Markov chain model
+Ultra Short-Term Wind Power Forecasting Based on Sparrow Search Algorithm Optimization Deep Extreme Learning Machine

@@ -1,0 +1,17 @@
+Using random forests to select optimal input variables for short-Term wind speed forecasting models
+Wind speed forecasting based on wavelet packet decomposition and artificial neural networks trained by crisscross optimization algorithm
+A corrected hybrid approach for wind speed prediction in Hexi Corridor of China
+A comparative study of optimal hybrid methods for wind power prediction in wind farm of Alberta, Canada
+A new strategy for predicting short-term wind speed using soft computing models
+A novel neural network method for wind speed forecasting using exogenous measurements from agriculture stations
+A hybrid multi-step rolling forecasting model based on SSA and simulated annealing-adaptive particle swarm optimization for wind speed
+Wind Speed Forecasting Method Using EEMD and the Combination Forecasting Method Based on GPR and LSTM
+Review of meta-heuristic algorithms for wind power prediction: Methodologies, applications and challenges
+The state of the art in short term prediction of wind power From an offshore perspective
+Research and application of an innovative combined model based on a modified optimization algorithm for wind speed forecasting
+A 5-day wind speed & power forecasts using a layer recurrent neural network (LRNN)
+Innovative Hybrid Modeling of Wind Speed Prediction Involving Time-Series Models and Artificial Neural Networks
+Short-term wind speed forecasting using deep reinforcement learning with improved multiple error correction approach
+Locally recurrent neural networks for wind speed prediction using spatial correlation
+Medium-term wind speeds forecasting utilizing hybrid models for three different sites in Xinjiang, China
+Ultra Short-Term Wind Power Forecasting Based on Sparrow Search Algorithm Optimization Deep Extreme Learning Machine
