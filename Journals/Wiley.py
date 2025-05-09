@@ -24,7 +24,7 @@ def construct_pdf_download_link(doi):
     return None
 
 # Paper title
-title = "A Hybrid Method for Ultrashort-Term Wind PowerPrediction considering Meteorological Features andSeasonal Information"
+title = "Hybrid CNN-LSTM Deep Learning for Track-Wise GNSS-R Ocean Wind Speed Retrieval"
 
 # Get DOI
 doi = get_doi_by_title(title)
