@@ -1,0 +1,12 @@
+A Multistep Direct and Indirect Strategy for Predicting Wind Direction Based on the EMD-LSTM Model
+Wind Speed Forecast Based on the LSTM Neural Network Optimized by the Firework Algorithm
+Forecasting surface wind speeds over offshore islands near Taiwan during tropical cyclones: Comparisons of data-driven algorithms and parametric wind representations
+Short-term Wind Speed Prediction Based on Grey System Theory Model in the Region of China
+Quantile deep learning model and multi-objective opposition elite marine predator optimization algorithm for wind speed
+An improved random forest model of short-term wind-power forecasting to enhance accuracy, efficiency, and robustness
+Development of ANN Model for Wind Speed Prediction as a Support for Early Warning System
+Support Vector Regression Method for Wind Speed Prediction Incorporating Probability Prior Knowledge
+Hybrid CNN-LSTM Deep Learning for Track-Wise GNSS-R Ocean Wind Speed Retrieval
+Short-term Wind Speed Prediction with a Two-layer Attention-based LSTM
+Spatio-temporal wind speed prediction based on Clayton Copula function with deep learning fusion
+Wind Speed Prediction Using Hybrid 1D CNN and BLSTM Network
