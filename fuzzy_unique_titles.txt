@@ -1,0 +1,719 @@
+Power prediction of a wind farm cluster based on spatiotemporal correlations.
+Short-Term Wind Power Prediction Method Based on Deep Clustering-Improved Temporal Convolutional Network
+A Review on the Young History of the Wind Power Short-Term Prediction
+Spatio-temporal Convolutional Network Based Power Forecasting of Multiple Wind Farms
+An Hour Ahead Wind Speed Prediction by Kalman Filter
+Short-Term Wind Power Prediction Based on Data Decomposition and Combined Deep Neural Network.
+Performance Improvement of Very Short-term Prediction Intervals for Regional Wind Power Based on Composite Conditional Nonlinear Quantile Regression
+Deterministic and Probabilistic Prediction of Wind Power Based on a Hybrid Intelligent Model.
+Ultra-short-term wind power interval prediction based on multi-task learning and generative critic networks.
+Recurrent Neural Network Wind Power Prediction Based on Variational Modal Decomposition Improvement
+Review on Monitoring, Operation and Maintenance of Smart Offshore Wind Farms
+An Online Transfer Learning Model for Wind Turbine Power Prediction Based on Spatial Feature Construction and System-wide Update
+Ultra-Short-Term Wind Power Prediction Based on LSTM with Loss Shrinkage Adam.
+Ultra-short-term wind power interval prediction based on hybrid temporal inception convolutional network model.
+Temporal Filtering of InSAR Data Using Statistical Parameters from NWP Models
+Short-Term Solar Power Forecasting via General Regression Neural Network with Grey Wolf Optimization
+Short-term Wind Power Prediction Based on Wavelet Decomposition and Extreme Learning Machine
+A Hybrid Deep Learning Architecture for Wind Power Prediction Based on Bi-attention Mechanism and Crisscross Optimization
+A Cyber-Secure Generalized Supermodel for Wind Power Forecasting Based on Deep Federated Learning and Image Processing
+A hybrid attention-based deep learning approach for wind power prediction.
+Computation and Analysis of an Offshore Wind Power Forecast: Towards a Better Assessment of Offshore Wind Power Plant Aerodynamics
+A hybrid framework for forecasting power generation of multiple renewable energy sources.
+WindGMMN: Scenario Forecasting for Wind Power Using Generative Moment Matching Networks.
+Transfer Learning Based Multi-layer Extreme Learning Machine for Probabilistic Wind Power Forecasting
+Short-term wind power forecasting based on Attention Mechanism and Deep Learning.
+Wind Power Short-Term Forecasting Method Based on LSTM and Multiple Error Correction.
+Hybrid VMD-CNN-GRU-based model for short-term forecasting of wind power considering spatio-temporal features.
+Short-term wind power forecasting and uncertainty analysis based on FCM WOA ELM GMM.
+Short-Term Interval Prediction of Wind Power Based on KELM and a Universal Tabu Search Algorithm
+A Novel Prediction Model for Wind Power Based on Improved Long Short-Term Memory Neural Network
+Wind Power Prediction Based on Multi-class Autoregressive Moving Average Model with Logistic Function
+Wind resource assessment over the Persian Gulf and Oman Sea using a numerical model simulation and satellite data
+Deep Concatenated Residual Network With Bidirectional LSTM for One-Hour-Ahead Wind Power Forecasting.
+A unified multi-step wind speed forecasting framework based on numerical weather prediction grids and wind farm monitoring data.
+Priori-guided and Data-driven Hybrid Model for Wind Power Forecasting
+Uncovering wind power forecasting uncertainty sources and their propagation through the whole modelling chain.
+A Review on Wind Power Forecast Technologies
+A CNN encoder decoder LSTM model for sustainable wind power predictive analytics.
+A Transformer-Based Deep Neural Network with Wavelet Transform for Forecasting Wind Speed and Wind Energy
+Wind Power Prediction Method: Support Vector Regression Optimized by Improved Jellyfish Search Algorithm.
+Short term wind power prediction for regional wind farms based on spatial-temporal characteristic distribution.
+A high-accuracy hybrid method for short-term wind power forecasting.
+M2STAN: Multi-modal multi-task spatiotemporal attention network for multi-location ultra-short-term wind power multi-step predictions.
+Short-term wind power probabilistic forecasting using a new neural computing approach: GMC-DeepNN-PF.
+Gradient Boosting-Based Approach for Short- and Medium-Term Wind Turbine Output Power Prediction
+A novel pure data-selection framework for day-ahead wind power forecasting
+A Review of Short-Term Wind Power Probabilistic Forecasting and a Taxonomy Focused on Input Data
+Artificial Intelligent Power Forecasting for Wind Farm Based on Multi-Source Data Fusion.
+Wind Power Prediction Based on Machine Learning and Deep Learning Models
+A Novel Framework for Ultra-Short-Term Interval Wind Power Prediction Based on RF-WOA-VMD and BiGRU Optimized By The Attention Mechanism
+An algorithm for forecasting day-ahead wind power via novel long short-term memory and wind power ramp events.
+Wind Power Generation Forecast Based on Multi-Step Informer Network.
+Wind Energy in Europe 2020 Statistics and the Outlook for 2021 2025
+Review of Meta-Heuristic Algorithms for Wind Power Prediction: Methodologies, Applications and Challenges
+State-of-the-Art Using Bibliometric Analysis of Wind-Speed and -Power Forecasting Methods Applied in Power Systems
+Short-term power prediction for renewable energy using hybrid graph convolutional network and long short-term memory approach.
+A unique Markov chain Monte Carlo method for forecasting wind power utilizing time series model.
+Short-Term Wind Power Forecasting Based on Feature Analysis and Error Correction.
+Incorporating Spatial and Temporal Correlations to Improve Aggregation of Decentralized Day-Ahead Wind Power Forecasts
+Ultra-Short-Term Wind Power Prediction Based on Double Decomposition and LSSVM
+Short-term PredictionAn Overview
+Developing a wind power forecasting system based on deep learning with attention mechanism.
+A Dual-Scale Deep Learning Model Based on Elm-Bilstm and Improved Reptile Search Algorithm for Wind Power Prediction
+Ultra-short term wind power prediction applying a novel model named SATCN-LSTM.
+A novel few-shot learning approach for wind power prediction applying secondary evolutionary generative adversarial network
+Short-term regional wind power forecasting for small datasets with input data correction, hybrid neural network, and error analysis.
+A new hybrid model for power forecasting of a wind farm using spatial temporal correlations.
+A Novel Hybrid Neural Network-Based Day-Ahead Wind Speed Forecasting Technique
+A novel approach to ultra-short-term multi-step wind power predictions based on encoder decoder architecture in natural language processing
+Assessing Stacked Physics-Informed Machine Learning Models for Co-located Wind Solar Power Forecasting
+Power Generation Forecast of Hybrid PV Wind System.
+A Hybrid Intelligent Framework for Forecasting Short-Term Hourly Wind Speed Based on Machine Learning
+A Review on Modeling and Forecasting of Wind Power
+Optimized Forecasting Model to Improve the Accuracy of Very Short-Term Wind Power Prediction
+Probabilistic forecasts of wind power generation in regions with complex topography using deep learning methods: An Arctic case.
+Wind Power Prediction in Germany-Recent Advances and Future Challenges
+Experiences with Statistical Methods for Wind Power Prediction
+Ultra-short-term probabilistic wind power forecasting with spatial-temporal multi-scale features and K-FSDW based weight.
+A Novel Approach to Ultra-Short-Term Wind Power Prediction Based on Feature Engineering and Informer
+Dual-meta Pool Method for Wind Farm Power Forecasting with Small Sample Data
+Solar Wind System for the Remote Objects of Railway Transport Infrastructure
+A Wind Speed Correction Method Based on Modified Hidden Markov Model for Enhancing Wind Power Forecast
+The Zephyr-project. The Next Generation Prediction System (Poster)
+Regional Wind Power Probabilistic Forecasting Based on an Improved Kernel Density Estimation, Regular Vine Copulas, and Ensemble Learning
+UK Renewable Energy Capacity to Double by 2026
+Global-local Analysis of Cost-optimal Onshore Wind Turbine Configurations Considering Wind Classes and Hub Heights
+Accounting for Environmental Conditions in Data-Driven Wind Turbine Power Models
+A Survey on Wind Turbine Condition Monitoring and Fault Diagnosis—Part I: Components and Subsystems
+Wind Turbine Reliability: A Comprehensive Review Towards Effective Condition Monitoring Development
+Failure Diagnosis of Wind Turbine Bearing Using Feature Extraction and a Neuro-Fuzzy Inference System (ANFIS)
+SCADA Data Based Realistic Simulation Framework to Evaluate Environmental Impact on Performance of Wind Turbine Condition Monitoring Systems
+Bearing Corrosion Failure Diagnosis of Doubly Fed Induction Generator in Wind Turbines Based on Stator Current Analysis
+SCADA Data Analysis Methods for Diagnosis of Electrical Faults to Wind Turbine Generators
+Wind Turbine Gearbox Condition Monitoring Based on Class of Support Vector Regression Models and Residual Analysis
+Bayesian State Prediction of Wind Turbine Bearing Failure
+Condition Monitoring of Wind Turbine Gearbox Bearing Based on Deep Learning Model
+Wind Turbine Main Bearing Fault Prognosis Based Solely on SCADA Data
+Combination of Thermal Modelling and Machine Learning Approaches for Fault Detection in Wind Turbine Gearboxes
+Condition Monitoring of Wind Turbine Bearings Progressive Degradation Using Principal Component Analysis
+Prognosis of the Remaining Useful Life of Bearings in a Wind Turbine Gearbox
+An Integrated Fault Diagnosis and Prognosis Approach for Predictive Maintenance of Wind Turbine Bearing with Limited Samples
+Prognosis of a Wind Turbine Gearbox Bearing Using Supervised Machine Learning
+Multi-Scale Wind Turbine Bearings Supervision Techniques Using Industrial SCADA and Vibration Data
+Condition Monitoring of Wind Turbine Main Bearing Based on Multivariate Time Series Forecasting
+Indicative Fault Diagnosis of Wind Turbine Generator Bearings Using Tower Sound and Vibration
+Analysing RMS and Peak Values of Vibration Signals for Condition Monitoring of Wind Turbine Gearboxes
+Condition Monitoring of Wind Turbines Based on Extreme Learning Machine
+A Hybrid DBN-SOM-PF-Based Prognostic Approach of Remaining Useful Life for Wind Turbine Gearbox
+Performance Degradation Assessment of a Wind Turbine Gearbox Based on Multi-Sensor Data Fusion
+Diagnosis and Prognosis of Real World Wind Turbine Gears
+Detection of Faulty High-Speed Wind Turbine Bearing Using Signal Intensity Estimator Technique
+An Approach of Quantifying Gear Fatigue Life for Wind Turbine Gearboxes Using Supervisory Control and Data Acquisition Data
+Hierarchical Method for Wind Turbine Prognosis Using SCADA Data
+Wind Turbine Prognosis Models Based on SCADA Data and Extreme Learning Machines
+Wind Turbine Gearbox Fault Prognosis Using High-Frequency SCADA Data
+Fault Prognosis and Remaining Useful Life Prediction of Wind Turbine Gearboxes Using Current Signal Analysis
+Long-term Operational Data Analysis of an In-Service Wind Turbine DFIG
+Fault Prognosis of Wind Turbine Generator Using SCADA Data
+Fault Prediction and Diagnosis of Wind Turbine Generators Using SCADA Data
+Condition Monitoring of Wind Turbine Generators Using SCADA Data Analysis
+Automated On-Line Fault Prognosis for Wind Turbine Pitch Systems Using Supervisory Control and Data Acquisition
+Data-Driven Wind Turbine Aging Models
+An Operation Data-Based Method for the Diagnosis of Zero-Point Shift of Wind Turbines Yaw Angle
+Data-Driven Assessment of Wind Turbine Performance Decline with Age and Interpretation Based on Comparative Test Case Analysis
+Comprehensive Aging Assessment of Pitch Systems Combining SCADA and Failure Data
+Wind Turbine Pitch System Condition Monitoring and Fault Detection Based on Optimized Relevance Vector Machine Regression
+Fault Diagnosis of Wind Power Yawing Slewing Bearing Based on Support Vector Machine
+EEMD-Based Multiscale ICA Method for Slewing Bearing Fault Detection and Diagnosis
+Incipient Fault Detection of Wind Turbine Large-Size Slewing Bearing Based on Circular Domain
+Data-Driven Design of Robust Fault Detection System for Wind Turbines
+Improving Wind Turbine Efficiency Through Detection and Calibration of Yaw Misalignment
+A Data-Mining Compensation Approach for Yaw Misalignment on Wind Turbine
+Operational Variables for Improving Industrial Wind Turbine Yaw Misalignment Early Fault Detection Capabilities Using Data-Driven Techniques
+SCADA-Based Wind Turbine Anomaly Detection Using Gaussian Process Models for Wind Turbine Condition Monitoring Purposes
+An Improved Data-Driven Methodology and Field-Test Verification of Yaw Misalignment Calibration on Wind Turbines
+Data-Driven Yaw Misalignment Correction for Utility-Scale Wind Turbines
+Estimation of Wind Turbine Power Coefficient by Adaptive Neuro-Fuzzy Methodology
+Incorporating Environmental Impacts into Zero-Point Shifting Diagnosis of Wind Turbines Yaw Angle
+Using Domain Knowledge Features for Wind Turbine Diagnostics
+Comparative Assessments of Binned and Support Vector Regression-Based Blade Pitch Curve of a Wind Turbine for the Purpose of Condition Monitoring
+Monitoring Wind Farms with Performance Curves
+Comparative Analysis of Binning and Support Vector Regression for Wind Turbine Rotor Speed Based Power Curve Use in Condition Monitoring
+Comparative Study of Binning and Gaussian Process Based Rotor Curves of a Wind Turbine for the Purpose of Condition Monitoring
+Analysis of differencing and decomposition preprocessing methods for wind speed prediction
+A novel combined model based on echo state network for multi-step ahead wind speed forecasting: a case study of NREL
+Comparative study of data-driven short-term wind power forecasting approaches for the Norwegian Arctic region
+Hourly day-ahead wind power forecasting with the EEMD-CSO-LSTM-EFG deep learning technique
+Short-term wind power forecasting using the hybrid model of improved variational mode decomposition and Correntropy long short-term memory neural network
+A novel hybrid model based on nonlinear weighted combination for short-term wind power forecasting
+Multi-step short-term wind speed forecasting approach based on multi-scale dominant ingredient chaotic analysis, improved hybrid GWO-SCA optimization and ELM
+Time series modeling and forecasting tropical cyclone prediction using ARIMA model
+Annual wind report
+LSTM: a search space Odyssey
+Multi-step forecasting for wind speed using a modified EMD-based artificial neural network model
+Wind power forecasting based on principle component phase space reconstruction
+Non-parametric hybrid models for wind speed forecasting
+Multi-step wind power forecast based on VMD-LSTM
+A combined model for short-term wind power forecasting based on the analysis of numerical weather prediction data
+Short-term energy use prediction of solar-assisted water heating system: application case of combined attention-based LSTM and time-series decomposition
+Probabilistic energy forecasting: global energy forecasting competition 2014 and beyond
+Application of the hybrid ANFIS models for long term wind power density prediction with extrapolation capability
+A nonlinear hybrid wind speed forecasting model using LSTM network, hysteretic ELM and Differential Evolution algorithm
+Very short-term spatial and temporal wind power forecasting: a deep learning approach
+Deep learning with long short-term memory for time series prediction
+Short-term prediction of wind power based on BiLSTM–CNN–WGAN-GP
+Benchmarking deep learning interpretability in time series predictions
+Predictive analysis of COVID-19 time-series data from Johns Hopkins University
+Short-term prediction of wind power based on EEMD-ACS-LSSVM
+Financial series prediction using attention LSTM
+An ensemble forecasting model of wind power outputs based on improved statistical approaches
+User behaviour models to forecast electricity consumption of residential customers based on smart metering data
+A wind speed interval prediction system based on multi-objective optimization for machine learning method
+Multi-step wind speed forecasting using EWT decomposition, LSTM principal computing, RELM subordinate computing and IEWT reconstruction
+EA-LSTM: evolutionary attention-based LSTM for time series prediction
+Short-term wind power prediction based on dynamic STARMA model
+Ultra-short-term wind power prediction based on multivariate phase space reconstruction and multivariate linear regression
+Smart multi-step deep learning model for wind speed forecasting based on variational mode decomposition, singular spectrum analysis, LSTM network and ELM
+Wind power short-term prediction based on LSTM and discrete wavelet transform
+Time series classification with multivariate convolutional neural network
+A novel deep learning approach for wind power forecasting based on WD-LSTM model
+Numerical weather prediction enhanced wind power forecasting: rank ensemble and probabilistic fluctuation awareness
+Short-term wind power prediction model based on encoder-decoder LSTM
+Univariate and multivariate regression models for short-term wind energy forecasting
+A novel wind power prediction approach using multivariate variational mode decomposition and multi-objective crisscross optimization based deep extreme learning machine
+Online adaptive lasso estimation in vector autoregressive models for high dimensional wind power forecasting
+Comparison of deep learning models for multivariate prediction of time series wind power generation and temperature
+Prediction interval forecasting of wind speed and wind power using modes decomposition based low rank multi-kernel ridge regression
+Hybrid forecasting model based on long short term memory network and deep learning neural network for wind signal
+Hourly day-ahead wind power prediction using the hybrid model of variational model decomposition and long short-term memory
+Wind power forecasting using hybrid ARIMA-ANN technique
+Recent developments in multivariate wind and solar power forecasting
+Predictive analysis of RNN, GBM and LSTM network for short-term wind power forecasting
+Different models for forecasting wind power
+Short-term wind power forecasting on multiple scales using VMD decomposition, k-means clustering and LSTM principal computing
+Modified particle swarm optimization with attention-based LSTM for wind power prediction
+Wind power pattern prediction in time series measurement data for wind energy prediction modelling using LSTM-GA networks
+Artificial intelligence-based wind forecasting using variational mode decomposition
+A novel framework for wind speed prediction based on recurrent neural networks and support vector machine
+LSTM-EFG for wind power forecasting based on sequential correlation features
+Prediction interval of wind power using parameter optimized Beta distribution based LSTM model
+Short-term prediction of wind power based on adaptive LSTM
+Univariate and multivariable forecasting models for ultra-short-term wind power prediction based on the similar day and LSTM network
+Short-term wind power prediction model based on ARMA-GRU-QPSO and error correction
+A novel hybrid model for wind speed prediction based on VMD and neural network considering atmospheric uncertainties
+Research on short-term wind power prediction based on combined forecasting models
+Short-term forecasting and uncertainty analysis of wind turbine power based on long short-term memory network and Gaussian mixture model
+Application of autoregressive dynamic adaptive (ARDA) model in real-time wind power forecasting
+Hybrid wind speed forecasting model based on multivariate data secondary decomposition approach and deep learning algorithm with attention mechanism
+Short-term offshore wind power forecasting—a hybrid model based on discrete wavelet transform (DWT), seasonal autoregressive integrated moving average (SARIMA), and deep-learning-based long short-term memory (LSTM)
+Wind power prediction based on LSTM networks and nonparametric Kernel density estimation
+A hybrid method for ultrashort-term wind power prediction considering meteorological features and seasonal information
+Analysis and application of forecasting models in wind power integration: a review of multi-step-ahead wind speed forecasting models.
+Application of hybrid model based on double decomposition, error correction and deep learning in short-term wind speed prediction.
+Short-term wind speed forecasting by spectral analysis from long-term observations with missing values.
+A new approach to quantify reserve demand in systems with significant installed wind capacity.
+Voltage Stability of Large-Scale Wind Plants Integrated in Weak Networks: An ERCOT Case Study.
+Integration of Large Scale Wind Generation in the New Zealand Power System and Electricity Market.
+A review and discussion of decomposition-based hybrid models for wind energy forecasting applications.
+Application of autoregressive models to UK wind speed data for power system impact studies.
+An improved neural network-based approach for short-term wind speed and power forecast.
+Hybrid wind energy forecasting and analysis system based on divide and conquer scheme: a case study in China.
+Short-term wind speed forecasting for power system operations.
+A Review of Wind Power and Wind Speed Forecasting Methods with Different Time Horizons.
+Short-term prediction of wind power with a clustering approach.
+Wind power prediction by a new forecast engine composed of modified hybrid neural network and enhanced particle swarm optimization.
+A novel clustering algorithm based on mathematical morphology for wind power generation prediction.
+Wind power day-ahead prediction with cluster analysis of NWP.
+Wind power prediction in new stations based on knowledge of existing stations: a cluster-based multi-source domain adaptation approach.
+A novel two-stage interval prediction method based on minimal gated memory network for clustered wind power forecasting.
+A review and comparison of strategies for multi-step ahead time series forecasting based on the NN5 forecasting competition.
+Multi-step-ahead wind speed forecasting based on optimal feature selection and a modified bat algorithm with the cognition strategy.
+A hybrid model based on synchronous optimisation for multi-step short-term wind speed forecasting.
+A review on multi-objective optimization framework in wind energy forecasting techniques and applications.
+Short-term load and wind power forecasting using neural network-based prediction intervals.
+Short-term wind power forecasting based on support vector machine with improved dragonfly algorithm.
+Deterministic and probabilistic multi-step forecasting for short-term wind speed based on secondary decomposition and a deep learning method.
+Estimation of the Uncertainty in Wind Power Forecasting.
+Probabilistic Short-Term Wind Power Forecasting for the Optimal Management of Wind Generation.
+One parametric approach for short-term JPDF forecast of wind generation.
+Probabilistic wind generation forecast based on sparse Bayesian classification and Dempster–Shafer theory.
+A multi-model combination approach for probabilistic wind power forecasting.
+Wind and solar power probability density prediction via fuzzy information granulation and support vector quantile regression.
+A hybrid intelligent model for deterministic and quantile regression approach for probabilistic wind power forecasting.
+Wind power interval forecasting based on confidence interval optimization.
+Probabilistic Forecast of Wind Power Generation with Data Processing and Numerical Weather Predictions.
+A review on the forecasting of wind speed and generated power.
+Review of the use of numerical weather prediction (NWP) models for wind energy assessment.
+A review of combined approaches for prediction of short-term wind speed and power.
+Reviews on uncertainty analysis of wind power forecasting.
+A survey of artificial neural network in wind energy systems.
+Deterministic wind energy forecasting: a review of intelligent predictors and auxiliary methods.
+State-of-the-art one-stop handbook on wind forecasting technologies: an overview of classifications, methodologies, and analysis.
+Application of support vector machine models for forecasting solar and wind energy resources: a review.
+Ensemble methods for wind and solar power forecasting—a state-of-the-art review.
+A review of classification problems and algorithms in renewable energy applications.
+A review of deep learning for renewable energy forecasting.
+A survey of machine learning models in renewable energy predictions.
+The wind integration national dataset (WIND) toolkit.
+A continuously updated, geospatially rectified database of utility-scale wind turbines in the United States.
+Wind speed prediction using hybrid long short-term memory neural network based approach.
+Innovative hybrid models for forecasting time series applied in wind generation based on the combination of time series models with artificial neural networks.
+Mesoscale modeling and remote sensing for wind energy applications.
+Wind speed forecasting based on wavelet packet decomposition and artificial neural networks trained by crisscross optimization algorithm.
+The study and application of a novel hybrid forecasting model – a case study of wind speed forecasting in China.
+A novel hybrid approach for predicting wind farm power production based on wavelet transform, hybrid neural networks and imperialist competitive algorithm.
+Short-term wind power forecasting in Portugal by neural networks and wavelet transform.
+A comparative study of empirical mode decomposition-based short-term wind speed forecasting methods.
+Short-term prediction of wind power using EMD and chaotic theory.
+Short-term wind power prediction based on improved kriging interpolation, empirical mode decomposition, and closed-loop forecasting engine.
+Short-term wind speed forecasting using empirical mode decomposition and feature selection.
+A hybrid model for wind speed prediction using empirical mode decomposition and artificial neural networks.
+Wind speed forecasting based on EMD and GRNN optimized by FOA.
+Short-term wind speed and wind power prediction using hybrid empirical mode decomposition and kernel ridge regression.
+A hybrid model of EMD and multiple-kernel RVR algorithm for wind speed prediction.
+A combination forecasting approach applied in multistep wind speed forecasting based on a data processing strategy and an optimized artificial intelligence algorithm.
+Hybrid forecasting system based on data area division and deep learning neural network for short-term wind speed forecasting.
+A novel decomposition-ensemble learning framework for multi-step ahead wind energy forecasting.
+Ultra-short-term wind speed forecasting using an optimized artificial intelligence algorithm.
+Wind speed forecasting method using EEMD and the combination forecasting method based on GPR and LSTM.
+A Novel Wind Speed Forecasting Method Based on Ensemble Empirical Mode Decomposition and GA-BP Neural Network.
+Wind speed forecasting based on the hybrid ensemble empirical mode decomposition and GA-BP neural network method.
+Wind speed forecasting using FEEMD echo state networks with RELM in Hebei, China.
+Short-term wind speed forecasting based on fast ensemble empirical mode decomposition, phase space reconstruction, sample entropy, and improved back-propagation neural network.
+Comparison of new hybrid FEEMD-MLP, FEEMD-ANFIS, Wavelet Packet-MLP and Wavelet Packet-ANFIS for wind speed predictions.
+Short-term wind speed prediction using an extreme learning machine model with error correction.
+Wind power forecast based on improved Long Short Term Memory network.
+Short-term wind speed forecasting based on hybrid variational mode decomposition and least squares support vector machine optimized by bat algorithm model.
+A new intelligent method based on combination of VMD and ELM for short term wind power forecasting.
+Hybrid multi-stage decomposition with parametric model applied to wind speed forecasting in Brazilian Northeast.
+Short-term wind speed prediction based on LMD and improved FA optimized combined kernel function LSSVM.
+An effective secondary decomposition approach for wind power forecasting using extreme learning machine trained by crisscross optimization.
+Wind speed forecasting approach using secondary decomposition algorithm and Elman neural networks.
+A novel wind speed forecasting based on hybrid decomposition and online sequential outlier robust extreme learning machine.
+Short-term wind speed forecasting using wavelet transform and support vector machines optimized by genetic algorithm.
+Wind turbine power output very short-term forecast: a comparative study of data clustering techniques in a PSO-ANFIS model.
+Short-term wind power forecasting based on clustering pre-calculated CFD method.
+Short-term wind speed prediction model based on GA-ANN improved by VMD.
+A hybrid system for short-term wind speed forecasting.
+M2gsnet: multi-modal multi-task graph spatiotemporal network for ultra-short-term wind farm cluster power prediction.
+Development of Methods for Regional Wind Power Forecasting.
+Short-term wind speed forecast with low loss of information based on feature generation of OSVD.
+Wind forecasts for wind power generation using the Eta model.
+Wind power forecasts using Gaussian processes and numerical weather prediction.
+State-of-the-Art on Methods and Software Tools for Short-Term Prediction of Wind Energy Production.
+Forecasting short-term wind speed based on IEWT-LSSVM model optimized by bird swarm algorithm.
+Wind speed and power forecasting based on spatial correlation models.
+Wind energy directional spatial correlation functions and application for prediction.
+Spatial Model for Short Term Wind Power Prediction Considering Wake Effects.
+A fuzzy model for wind speed prediction and power generation in wind parks using spatial correlation.
+Locally recurrent neural networks for wind speed prediction using spatial correlation.
+A new method based on Type-2 fuzzy neural network for accurate wind power forecasting under uncertain data.
+A survey of wind power ramp forecasting.
+Forecast of hourly average wind speed with ARMA models in Navarre (Spain).
+Day-ahead wind speed forecasting using f-ARIMA models.
+ARMA based approaches for forecasting the tuple of wind speed and direction.
+A corrected hybrid approach for wind speed prediction in Hexi Corridor of China.
+Short-term wind power generation forecasting: direct versus indirect ARIMA-based approaches.
+Linear and non-linear autoregressive models for short-term wind speed forecasting.
+One-day ahead wind speed/power prediction based on polynomial autoregressive model.
+Forecasting near-surface ocean winds with Kalman filter techniques.
+Comparison of two new ARIMA-ANN and ARIMA-Kalman hybrid methods for wind speed prediction.
+Automatic tuning of Kalman filters by maximum likelihood methods for wind energy forecasting.
+Short-term wind speed prediction using an unscented Kalman filter based state-space support vector regression approach.
+Short-term wind speed prediction based on robust Kalman filtering: an experimental comparison.
+Adaptive Kalman filtering of 2-metre temperature and 10-metre wind-speed forecasts in Iceland.
+Improvements in wind speed forecasts for wind power prediction purposes using Kalman filtering.
+Wind speed and wind energy forecast through Kalman filtering of Numerical Weather Prediction model output.
+Development and verification of a new wind speed forecasting system using an ensemble Kalman filter data assimilation technique in a fully coupled hydrologic and atmospheric model.
+Wind power prediction based on numerical and statistical models.
+Current methods and advances in forecasting of wind power generation.
+Short term wind speed forecasting in La Venta, Oaxaca, Mexico, using artificial neural networks.
+The application of artificial neural networks to mapping of wind speed profile for energy application in Nigeria.
+Using enhanced crow search algorithm optimization-extreme learning machine model to forecast short-term wind power.
+A novel hybrid model for short-term prediction of wind speed.
+A new strategy for wind speed forecasting using artificial intelligent methods.
+Estimation of wind speed profile using adaptive neuro-fuzzy inference system (ANFIS).
+Short-term wind power forecasting using adaptive neuro-fuzzy inference system combined with evolutionary particle swarm optimization, wavelet transform, and mutual information.
+A generalized dynamic fuzzy neural network based on singular spectrum analysis optimized by brain storm optimization for short-term wind speed forecasting.
+Deep Neural Networks for Ultra-short-term Wind Forecasting.
+A hybrid GA–PSO–CNN model for ultra-short-term wind power forecasting.
+Short-term wind speed forecasting approach using ensemble empirical mode decomposition and deep Boltzmann machine.
+Interval deep generative neural network for wind speed forecasting.
+Ultra-short term wind prediction with wavelet transform, deep belief network and ensemble learning.
+Memory Network based on Neighborhood Gates for processing complex causality in wind speed prediction.
+Efficient training over long short-term memory networks for wind speed forecasting.
+Wind speed forecasting based on quantile regression minimal gated memory network and kernel density estimation.
+Short-term wind speed forecasting using recurrent neural networks with error correction.
+Short-term wind speed forecasting via stacked extreme learning machine with generalized correntropy.
+Wind speed prediction using the hybrid model of wavelet decomposition and artificial bee colony algorithm-based relevance vector machine.
+An Improved Artificial Bee Colony-BP Neural Network Algorithm in the Short-Term Wind Speed Prediction.
+Wind power prediction using a novel model on wavelet decomposition-support vector machines-improved atomic search algorithm.
+Ensemble wind speed forecasting system based on optimal model adaptive selection strategy: case study in China.
+Stratification-based wind power forecasting in a high-penetration wind power system using a hybrid model.
+Wind power forecast using wavelet neural network trained by improved Clonal selection algorithm.
+Feature selection in wind speed prediction systems based on a hybrid coral reefs optimization – extreme learning machine approach.
+A Coral Reefs Optimization algorithm with Harmony Search operators for accurate wind speed prediction.
+A self-organizing forecast of day-ahead wind speed: selective ensemble strategy based on numerical weather predictions.
+Improving short-term wind power prediction using hybrid improved cuckoo search arithmetic - support vector regression machine.
+Wind speed forecasting system based on the variational mode decomposition strategy and immune selection multi-objective dragonfly optimization algorithm.
+Wind speed forecasting using nonlinear-learning ensemble of deep learning time series prediction and extremal optimization.
+Multi-layer perceptron hybrid model integrated with the firefly optimizer algorithm for windspeed prediction of target site using a limited set of neighboring reference station data.
+Short-term wind speed predicting framework based on EEMD-GA-LSTM method under large scaled wind history.
+Prediction of offshore wind farm power using a novel two-stage model combining kernel-based nonlinear extension of the Arps decline model with a multi-objective grey wolf optimizer.
+Multi-step short-term wind power prediction based on three-level decomposition and improved grey wolf optimization.
+Wind speed forecasting based on hybrid model with model selection and wind energy conversion.
+A hybrid approach for multi-step wind speed forecasting based on two-layer decomposition, improved hybrid DE-HHO optimization and KELM.
+A multivariable hybrid prediction system of wind power based on outlier test and innovative multi-objective optimization.
+Boosted ANFIS model using augmented marine predator algorithm with mutation operators for wind power forecasting.
+Ensemble forecasting system for short-term wind speed forecasting based on optimal sub-model selection and multi-objective version of mayfly optimization algorithm.
+Ultra-short-term wind-speed bi-forecasting system via artificial intelligence and a double-forecasting scheme.
+Short-term wind power forecasting using evolutionary algorithms for the automated specification of artificial intelligence models.
+A hybrid PSO–ANFIS approach for short-term wind power prediction in Portugal.
+Wind speed forecasting based on least squares support vector machine and particle swarm optimization.
+A novel wind speed forecasting model based on moving window and multi-objective particle swarm optimization algorithm.
+A new combined model based on multi-objective salp swarm optimization for wind speed forecasting.
+Tabu search algorithm optimized ANN model for wind power prediction with NWP.
+Wind speed prediction using a hybrid model of the multi-layer perceptron and whale optimization algorithm.
+Wind speed forecasting in three different regions of Mexico, using a hybrid ARIMA–ANN model.
+Comparative study on three new hybrid models using Elman Neural Network and Empirical Mode Decomposition based technologies improved by Singular Spectrum Analysis for hour-ahead wind speed forecasting.
+Causal convolutional gated recurrent unit network with multiple decomposition methods for short-term wind speed forecasting.
+Wind speed interval prediction based on Lorenz disturbance distribution
+A statistical model for wind power forecast error and its application to the estimation of penalties in liberalized markets
+Statistical analysis of wind characteristics using Weibull and Rayleigh distributions in Deokjeok-do Island–Incheon, South Korea
+A versatile probability distribution model for wind power forecast errors and its application in economic dispatch
+A statistical analysis of wind power density based on the Weibull and Rayleigh models at the southern region of Turkey
+Performance comparison of six numerical methods in estimating Weibull parameters for wind energy application
+Probabilistic wind power forecasts using local quantile regression
+Probabilistic forecasting of wind power generation using extreme learning machine
+A construction approach to prediction intervals based on bootstrap and deep belief network
+Interval wind-power prediction model based on numerical weather prediction and deep learning
+Lower upper bound estimation method for construction of neural network-based prediction intervals
+An advanced approach for construction of optimal wind power prediction intervals
+An interval-valued neural network approach for uncertainty quantification in short-term wind speed prediction
+Interval forecasts of a novelty hybrid model for wind speeds
+A new fuzzy-based combined prediction interval for wind power forecasting
+Short-term Wind Power Intervals Prediction Based on Generalized Morphological Filter and Artificial Bee Colony Neural Network
+Wind power interval prediction based on improved PSO and BP neural network
+A novel multi-objective optimal approach for wind power interval prediction
+Probabilistic wind-power forecasting using weather ensemble models
+Multi-objective algorithm for the design of prediction intervals for wind power forecasting model
+A center-of-concentrated-based prediction interval for wind power forecasting
+Wind power interval prediction based on improved whale optimization algorithm and fast learning network
+Direct interval forecast of uncertain wind power based on recurrent neural networks
+Multi-objective prediction intervals for wind power forecast based on deep neural networks
+Hybrid bidirectional LSTM model for short-term wind speed interval prediction
+The short-term interval prediction of wind power using the deep learning model with gradient descent optimization
+Short-term wind speed interval prediction based on ensemble GRU model
+Deep learning method based on gated recurrent unit and variational mode decomposition for short-term wind power interval prediction
+A novel deep interval prediction model with adaptive interval construction strategy and automatic hyperparameter tuning for wind speed forecasting
+Temporal convolutional networks interval prediction model for wind speed forecasting
+Short-term wind power interval prediction method using VMD-RFG and Att-GRU
+A novel hybrid model based on Bernstein polynomial with mixture of Gaussians for wind power forecasting
+Dynamic ensemble wind speed prediction model based on hybrid deep reinforcement learning
+A blended approach incorporating TVFEMD, PSR, NNCT-based multi-model fusion and hierarchy-based merged optimization algorithm for multi-step wind speed prediction
+Long-term wind speed and power forecasting using local recurrent neural network models
+Wind power prediction based on PSO-Kalman
+Capturing spatial influence in wind prediction with a graph convolutional neural network
+An ultra-short-term wind speed prediction model using LSTM based on modified tuna swarm optimization
+Short-term wind power forecasting using wavelet-based neural network
+Methodological framework for short-and medium-term energy, solar and wind power forecasting with stochastic-based machine learning approach to monetary and energy policy applications
+Short-term forecasting and uncertainty analysis of wind power
+Wind power forecasting based on time series model using deep machine learning algorithms
+Wind power forecasting
+DAFT-E: feature-based multivariate and multi-step-ahead wind power forecasting
+Wind turbine data analysis and LSTM-based prediction in SCADA system
+Wind power forecasting methods based on deep learning: a survey
+Hybrid forecasting method for wind power integrating spatial correlation and corrected numerical weather prediction
+Feature selection and hyper parameters optimization for short-term wind power forecast
+Hourly day-ahead wind power forecasting at two wind farms in northeast Brazil using WRF model
+A model combining convolutional neural network and LightGBM algorithm for ultra-short-term wind power forecasting
+Wind power forecasting—a data-driven method along with gated recurrent neural network
+Short-term forecasting and uncertainty analysis of wind power based on long short-term memory, cloud model and non-parametric kernel density estimation
+A critical review of wind power forecasting methods—past, present and future
+Wind energy forecasting using artificial neural network in Himalayan region
+Predicting the energy output of hybrid PV–wind renewable energy system using feature selection technique for smart grids
+Two-stage short-term wind power forecasting algorithm using different feature-learning models
+Day-ahead wind power forecasting based on wind load data using hybrid optimization algorithm
+Conditional aggregated probabilistic wind power forecasting based on spatio-temporal correlation
+Echo state network based ensemble approach for wind power forecasting
+Probabilistic wind power forecasting based on spiking neural network
+Self-weighted robust LDA for multiclass classification with edge classes
+Multi-objective wind power scenario forecasting based on PG-GAN
+GWEC Global Wind Report 2022
+Grid Integration Challenges of Wind Energy: A Review
+Global Wind Report | GWEC (2021)
+The state of the art in short term prediction of wind power—From an offshore perspective
+A review of methods applied for wind power generation forecasting
+Innovative Hybrid Modeling of Wind Speed Prediction Involving Time-Series Models and Artificial Neural Networks
+Short-term wind speed forecasting using deep reinforcement learning with improved multiple error correction approach
+Optimization scheme of wind energy prediction based on artificial intelligence
+Ultra Short-Term Wind Power Forecasting Based on Sparrow Search Algorithm Optimization Deep Extreme Learning Machine
+Application of adaptive neuro-fuzzy inference for wind power short-term forecasting
+Hybrid wavelet-PSO-ANFIS approach for short-term wind power forecasting in Portugal
+Short-term wind power forecasting using a hybrid evolutionary intelligent approach
+Short-term wind speed forecasting using artificial neural networks for Tehran, Iran
+Short-Term Electric Power Forecasting Using Dual-Stage Hierarchical Wavelet-Particle Swarm Optimization- Adaptive Neuro-Fuzzy Inference System PSO-ANFIS Approach Based On Climate Change
+Ensemble recurrent neural network based probabilistic wind speed forecasting approach
+A Short-Term Wind Speed Forecasting Model by Using Artificial Neural Networks with Stochastic Optimization for Renewable Energy Systems
+Neural network based hybrid computing model for wind speed prediction
+A Hybrid Framework for Short Term Multi-Step Wind Speed Forecasting Based on Variational Model Decomposition and Convolutional Neural Network
+Wind Power Prediction Based on a Convolutional Neural Network
+Forecasting wind speed using empirical mode decomposition and Elman neural network
+Transfer learning for short-term wind speed prediction with deep neural networks
+Hybridizing the fifth generation mesoscale model with artificial neural networks for short-term wind speed prediction
+A new hybrid iterative method for short-term wind speed forecasting
+A new strategy for predicting short-term wind speed using soft computing models
+Wind forecasting using Principal Component Analysis
+Using random forests to select optimal input variables for short-Term wind speed forecasting models
+A new hybrid prediction method of ultra-short-term wind power forecasting based on EEMD-PE and LSSVM optimized by the GSA
+A 5-day wind speed & power forecasts using a layer recurrent neural network (LRNN)
+Hybrid forecasting model for very-short term wind power forecasting based on grey relational analysis and wind speed distribution features
+A fast and accurate model for forecasting wind speed and solar radiation time series based on extreme learning machines and principal components analysis
+Evaluation of hybrid forecasting approaches for wind speed and power generation time series
+Daily wind speed forecasting through hybrid KF-ANN model based on ARIMA
+An EMD-recursive ARIMA method to predict wind speed for railway strong wind warning system
+A hybrid wind speed forecasting system based on a “decomposition and ensemble” strategy and fuzzy time series
+Short-Term Wind Speed Forecasting Based on Signal Decomposing Algorithm and Hybrid Linear/Nonlinear Models
+A new hybrid approach for wind speed forecasting applying Support Vector Machine with ensemble empirical mode decomposition and Cuckoo Search Algorithm
+Medium-term wind speeds forecasting utilizing hybrid models for three different sites in Xinjiang, China
+A hybrid multi-step rolling forecasting model based on SSA and simulated annealing-adaptive particle swarm optimization for wind speed
+Artificial Combined Model Based on Hybrid Nonlinear Neural Network Models and Statistics Linear Models—Research and Application for Wind Speed Forecasting
+Research and application of an innovative combined model based on a modified optimization algorithm for wind speed forecasting
+A novel decomposition-optimization model for short-term wind speed forecasting
+AWNN-Assisted wind power forecasting using feed-forward neural network
+Short-term wind-power prediction based on wavelet transform-support vector machine and statistic-characteristics analysis
+Short-term wind speed forecasting based on a hybrid model
+A robust combination approach for short-term wind speed forecasting and analysis
+A hybrid technique for short-term wind speed prediction
+Very short-term wind speed prediction: A new artificial neural network-Markov chain model
+A comparative study of optimal hybrid methods for wind power prediction in wind farm of Alberta, Canada
+A novel neural network method for wind speed forecasting using exogenous measurements from agriculture stations
+Optimal parameters selection for BP neural network based on particle swarm optimization: A case study of wind speed forecasting
+Wind power resources assessment under varying topography
+Assessment of wind energy potential over Ontario and Great Lakes using the NARR data: 1980–2012
+Statistical diagnosis of the best Weibull methods for wind power assessment for agricultural applications
+Wind speed and power characteristics for Jubail Industrial City, Saudi Arabia
+Comparison of Weibull estimation methods for diverse winds
+Assessment of wind power potential in the coastal region of Tamil Nadu, India
+Investigation of wind power potential at Oran, Northwest of Algeria
+Particle swarm optimization method for estimation of Weibull parameters: a case study for the Brazilian Northeast Region
+Analysis of two-component mixture Weibull statistics for estimation of wind speed distributions
+Wind energy assessment incorporating particle swarm optimization method
+Study of different parameters estimation methods of Weibull distribution to determine wind power density using ground based Doppler SODAR instrument
+Wind energy development and policy in India: a review
+Sustainable energy through wind speed and power density analysis in Ambam, south region of Cameroon
+Study on offshore wind power potential and wind farm optimization in Hong Kong
+A comparative analysis of wind characteristics for distinct terrains of India
+Performance analysis of metaheuristic optimization algorithms in estimating the parameters of several wind speed distributions
+Analysis of wind energy potential and Weibull parameter estimation methods: a case study from Turkey
+The impact of onshore wind power projects on ecological corridors and landscape connectivity in Shanxi, China
+Short-term prediction of wind power density using convolutional LSTM network
+Comparison of numerical methods and metaheuristic optimization algorithms for estimating parameters for wind energy potential assessment in low wind regions
+Comparative study of different methods for estimating Weibull parameters: a case study on Jeju Island, South Korea
+Calculation of Weibull distribution parameters at low wind speed and performance analysis
+The possibility of generating electricity using small-scale wind turbines and solar photovoltaic systems for households in Northern Cyprus: a comparative study
+Statistical analysis of wind characteristics based on Weibull methods for estimation of power generation in Lithuania
+Wind energy potential assessment by Weibull parameter estimation using multiverse optimization method: a case study of Tirumala Region in India
+Comparative study of onshore and offshore wind characteristics and wind energy potentials: a case study for southeast coastal region of China
+Experimental and numerical analysis on small scale wind turbines: a review
+Experimental study on performance improvement of a Savonius turbine by equipping with a cylindrical cowling
+Investigation of accurate location planning for wind farm establishment: a case study
+Assessing different parameters estimation methods of Weibull distribution to compute wind power density
+Evaluation of wind energy potential of the state of Tamil Nadu, India based on trend analysis
+India’s wind potential atlas at 120 m Agl
+Comparative study of five different methods of adjustment by the Weibull model to determine the most accurate method of analyzing annual variations of wind energy in Tetouan -Morocco
+Comparative study of offshore wind energy potential assessment using different Weibull parameters estimation methods
+Genetic algorithm based optimized model for the selection of wind turbine for any site-specific wind conditions
+Site selection of floating offshore wind through the levelised cost of energy: a case study in Ireland
+Mapping of the levelised cost of energy for floating offshore wind in the European Atlantic
+The impact of climate change on the levelised cost of wind energy
+Wind resource evolution in Europe under different scenarios of climate change characterised by the novel Shared Socioeconomic Pathways
+Climate change impacts on wind power generation
+Addressing the technical and market challenges to high wind power integration in Ireland
+Optimized hybrid ensemble technique for CMIP6 wind data projections under different climate-change scenarios. Case study: United Kingdom
+The evolution of offshore wind power in the United Kingdom
+Sites exploring prioritisation of offshore wind energy potential and mapping for wind farms installation: Iranian islands case studies
+Wind energy potential analysis using Sentinel-1 satellite: a review and a case study on Mediterranean islands
+Copula-based modeling of stochastic wind power in Europe and implications for the Swiss power grid
+Modelling dependence between observed and simulated wind speed data using copulas
+Short-term probabilistic predictions of wind multi-parameter based on one-dimensional convolutional neural network with attention mechanism and multivariate copula distribution estimation
+Mid-to-long term wind and photovoltaic power generation prediction based on copula function and long short-term memory network
+Mapping of meteorological observations over the island of Ireland to enhance the understanding and prediction of rain erosion in wind turbine blades
+Exploring the role of reanalysis data in simulating regional wind generation variability over Northern Ireland
+Wind Resource Assessment and Micro-Siting (Science and Engineering) Appendix II: IEC Classification of Wind Turbines
+Wind Power Generation
+Do windy areas have more wind turbines: an empirical analysis of wind installed capacity in Native tribal nations
+Multi-step wind speed prediction based on turbulence intensity and hybrid deep neural networks
+Quantile deep learning model and multi-objective opposition elite marine predator optimization algorithm for wind speed
+Spatio-temporal wind speed prediction based on Clayton Copula function with deep learning fusion
+Short-term Wind Speed Prediction Based on Grey System Theory Model in the Region of China
+A new prediction method based on VMD-PRBF-ARMA-E model considering wind speed characteristic
+Wind Speed Modeling by Nested ARIMA Processes
+Point and interval forecasting for wind speed based on linear component extraction
+Wind Power Prediction Based on PSO-SVR and Grey Combination Model
+Support Vector Regression Method for Wind Speed Prediction Incorporating Probability Prior Knowledge
+Development of ANN Model for Wind Speed Prediction as a Support for Early Warning System
+Ultra-Short-Term Wind-Power Forecasting Based on the Weighted Random Forest Optimized by the Niche Immune Lion Algorithm
+An improved random forest model of short-term wind-power forecasting to enhance accuracy, efficiency, and robustness
+ν-Support Vector Regression Model Based on Gauss-Laplace Mixture Noise Characteristic for Wind Speed Prediction
+Forecasting surface wind speeds over offshore islands near Taiwan during tropical cyclones: Comparisons of data-driven algorithms and parametric wind representations
+Forecasting Wind Speed using Artificial Neural Networks—A Case Study of a Potential Location of Saudi Arabia
+A novel wind speed prediction strategy based on Bi-LSTM, MOOFADA and transfer learning for centralized control centers
+Short-term Wind Speed Prediction with a Two-layer Attention-based LSTM
+A Multistep Direct and Indirect Strategy for Predicting Wind Direction Based on the EMD-LSTM Model
+Wind Speed Forecast Based on the LSTM Neural Network Optimized by the Firework Algorithm
+Short-Term Wind Speed Prediction Based on Principal Component Analysis and LSTM
+Wind Speed Prediction Using Hybrid 1D CNN and BLSTM Network
+CNN-Based Deep Learning Model for Solar Wind Forecasting
+Hybrid CNN-LSTM Deep Learning for Track-Wise GNSS-R Ocean Wind Speed Retrieval
+A Hybrid Forecasting Model Based on CNN and Informer for Short-Term Wind Power
+Solar Wind Prediction Using Deep Learning
+Wind energy development in Morocco: Evolution and impacts
+Wind energy integration in Africa: development, impacts and barriers
+State of wind energy in the world: Evolution, impacts and perspectives
+Wind power forecasting using emotional neural networks
+Short-term wind power prediction based on hybrid neural network and chaotic shark smell optimization
+Wind speed and wind power forecasting using statistical models: Auto regressive moving average (ARMA) and artificial neural networks (ANN)
+Forecasting wind power generation using artificial neural network: 'Pawan danawi'—a case study from Sri Lanka
+Wind power prediction based on Elman neural network model optimized by improved genetic algorithm
+A literature review of wind forecasting methods
+Improving renewable energy forecasting with a grid of numerical weather predictions
+New developments in wind energy forecasting
+A review of wind power forecasting & prediction
+Analysis of turbulent wake behind a wind turbine
+A review of wind power forecasting models
+A review on different methods of wind power forecasting
+Machine learning and meta-heuristic algorithms for renewable energy: A systematic review
+Smart energy management in solar/wind power stations using artificial neural networks
+A literature review of wind forecasting technology in the world
+Forecasting of power in wind energy based on back propagation algorithm in neural networks
+Wind power forecast by using improved radial basis function neural network
+An extreme learning machine based very short-term wind power forecasting method for complex terrain
+Short-term forecasting of wind power generation based on the similar day and elman neural network
+Wind power forecasting using machine learning: State of the art, trends and challenges
+Machine learning ensembles for wind power prediction
+Support vector machine-based short-term wind power forecasting
+Wind power forecasting: A review of statistical models-wind power forecasting
+An overview of deterministic and probabilistic forecasting methods of wind energy
+Short-term wind power forecasting using mixed input feature-based cascade-connected artificial neural networks
+Wind power assessment and evaluation of electricity generation in the Gulf of Tunis Tunisia
+Wind energy forecasting and forecasting methods
+Modeling the energy of a wind flow to assess its potential
+A set of mathematical models of renewable energy for a prospective assessment of its potential
+Comparative Analysis of Eight Numerical Methods Using Weibull Distribution to Estimate Wind Power Density for Coastal Areas in Pakistan
+Estimation of Wind Power Potential Using Weibull Distribution
+Bayesian method for estimating Weibull parameters for wind resource assessment in the Equatorial region: A comparison between two-parameter and three-parameter Weibull distributions
+Influence of Weibull parameters on the estimation of wind energy potential
+Analysis of Wind Energy Prospect for Power Generation by Three Weibull Distribution Methods
+Comparative Analysis of the Weibull model and observed wind data in the city of Floridablanca, Colombia
+Wind speed probability distribution estimation and wind energy assessment
+Evaluation of wind energy potential and trends in Morocco
+Wind Power Density Distribution at Locations with Low and High Wind Speeds Using Statistical Models
+Physical modeling in wind energy forecasting
+Wind speed spatial estimation for energy planning in Sicily: A neural kriging application
+Wind energy predictions using CFD and HIRLAM forecasts
+Wind energy forecast in complex sites with a hybrid neural network and CFD based method
+Intelligent estimation of wind farm performance with direct and indirect point forecasting approaches integrating several NWP models
+A comprehensive statistical analysis for residuals of wind speed and direction from numerical weather prediction for wind energy
+Short-term wind power prediction based on spatial model
+Short-term prediction of wind energy production
+Wind Power Forecasting Models
+Short-term prediction of the wind speed based on a learning process control algorithm in isolated power systems
+Wind power forecasting based on time series ARMA model
+Wind speed prediction using a univariate ARIMA model and a multivariate NARX model
+Improved wind power forecasting with ARIMA models
+Different models for forecasting wind power generation: Case study
+An integrated wind power forecasting methodology: Interval estimation of wind speed, operation probability of wind turbine, and conditional expected wind power output of a wind farm
+A review on the recent history of wind power ramp forecasting
+A statistical model for wind power on the basis of ramp analysis
+Short-term wind speed forecasting: Application of linear and non-linear time series models
+A hybrid regression based forecasting model for estimating the cost of wind energy production
+Time Series Data Modeling Using Advanced Machine Learning and AutoML
+Wind direction prediction for yaw control of wind turbines
+A multi-component hybrid system based on predictability recognition and modified multi-objective optimization for ultra-short-term onshore wind speed forecasting
+Artificial intelligence in renewable systems for transformation towards intelligent buildings
+New technologies of renewable energy conversion
+New developments in wind energy forecasting with artificial intelligence and big data: A scientometric insight
+Artificial intelligence in wind speed forecasting: A review
+A novel approach for the forecasting of mean hourly wind speed time series
+Application of back propagation neural network for wind power generation forecasting
+Wind power forecasting using an artificial neural network
+Daily average wind energy forecasting using artificial neural networks
+The Development and Implementation of a Short-Term Prediction Tool Using Artificial Neural Networks
+Wind power forecasting based on daily wind speed data using machine learning algorithms
+A regression model for predicting the speed of wind flows for energy needs based on fuzzy logic
+Forecasting from incomplete and chaotic wind speed data
+A hybrid approach to multi-step, short-term wind speed forecasting using correlated features
+Data complexity-based hybrid approach to select a model for wind speed forecasting
+Comparison of two new intelligent wind speed forecasting approaches based on wavelet packet decomposition, complete ensemble empirical mode decomposition with adaptive noise and artificial neural networks
+A new multistage short-term wind power forecasting model
+Advanced machine learning techniques for accurate very-short-term wind power forecasting in wind energy systems using historical data analysis
+Wind speed prediction for site selection and reliable operation of wind power plants in coastal regions using machine learning algorithm variants
+Comparative analysis of machine learning techniques in predicting wind power generation: A case study of 2018–2021 data from Guatemala
+Comparison and enhancement of machine learning algorithms for wind turbine output prediction with insufficient data
+Enhancing the accuracy of wind power projections under climate change using geospatial machine learning models
+Adama II wind farm long-term power generation forecasting based on machine learning models
+Spatially transferable machine learning wind power prediction models: v−logit random forests
+Clustered hybrid wind power prediction model based on ARMA, PSO-SVM, and clustering methods
+Wind power forecasting based on hourly wind speed data in South Korea using machine learning algorithms
+Wind power forecasting by the BP neural network with the support of machine learning
+Wind power forecasting with machine learning algorithms in low-cost devices
+Predicting wind power generation using machine learning and CNN-LSTM approaches
+Inferential statistics and machine learning models for short-term wind power forecasting
+Prediction of wind power with machine learning models
+Short-term prediction of wind power based on phase space reconstruction and BiLSTM
+Short-term wind power prediction based on two-layer decomposition and BiTCN-BiLSTM-attention model
+Prediction of ultra-short-term wind power based on CEEMDAN-LSTM-TCN
+Boosted GRU model for short-term forecasting of wind power with feature-weighted principal component analysis
+Ultra-short-term wind power forecasting based on deep Bayesian model with uncertainty
+Real-time wind power prediction using distributed computing and machine learning
+Short-term power prediction of wind turbine applying machine learning and digital filter
+Enhancing regional wind power forecasting through advanced machine-learning and feature-selection techniques
+Machine learning-based time series modelling for large-scale regional wind power forecasting: A case study in Ontario, Canada
+Monthly wind power forecasting: Integrated model based on grey model and machine learning
+Noise-intensification data augmented machine learning for day-ahead wind power forecast
+Demystifying the use of ERA5-land and machine learning for wind power forecasting
+Probabilistic machine learning aided transformer lifetime prediction framework for wind energy systems
+A machine learning-based fatigue loads and power prediction method for wind turbines under yaw control
+Improvement of wind power prediction from meteorological characterization with machine learning models
+Icing detection and prediction for wind turbines using multivariate sensor data and machine learning
+SCADA system dataset exploration and machine learning based forecast for wind turbines
+Examination of turbulence impacts on ultra-short-term wind power and speed forecasts with machine learning
+Integrated machine learning and enhanced statistical approach-based wind power forecasting in Australian Tasmania wind farm
+A review of modern wind power generation forecasting technologies
+Wind farm power prediction: a data-mining approach
+A comprehensive review on machine learning techniques for forecasting wind flow pattern
+Short-term wind power forecasting based on numerical weather prediction adjustment
+Very short-term forecasting of wind power generation using hybrid deep learning model
+Current advances and approaches in wind speed and wind power forecasting for improved renewable energy integration: A review
+Multistep short-term wind speed prediction using nonlinear auto-regressive neural network with exogenous variable selection
+A review of very short-term wind and solar power forecasting
+Exploiting deep learning for wind power forecasting based on big data analytics
+Short-term wind power forecasting approach based on Seq2Seq model using NWP data
+Wind speed ensemble forecasting based on deep learning using adaptive dynamic optimization algorithm
+Numerical weather prediction and artificial neural network coupling for wind energy forecast
+Wind power forecasting based on Echo State Networks and Long Short-Term Memory
+Evaluation metrics for wind power forecasts: A comprehensive review and statistical analysis of errors
+An improved residual-based convolutional neural network for very short-term wind power forecasting
+A novel composite neural network based method for wind and solar power forecasting in microgrids
+Wind speed forecasting for wind farms: A method based on support vector regression
+A novel deep learning intelligent clustered hybrid models for wind speed and power forecasting
+Wind power prediction based on high-frequency SCADA data along with isolation forest and deep learning neural networks
+A model combining stacked auto encoder and back propagation algorithm for short-term wind power forecasting
+A hybrid wind power forecasting approach based on Bayesian model averaging and ensemble learning
+A hybrid wind speed forecasting method and wind energy resource analysis based on a swarm intelligence optimization algorithm and an artificial intelligence model
+Forecasting energy consumption and wind power generation using deep echo state network
+Wind power forecasting using attention-based gated recurrent unit network
+Intelligent and robust prediction of short term wind power using genetic programming based ensemble of neural networks
+An innovative synthesis of deep learning techniques (DCapsNet & DCOM) for generation electrical renewable energy from wind energy
+Wind speed forecasting method based on deep learning strategy using empirical wavelet transform, long short term memory neural network and Elman neural network
+A novel wind speed forecasting system based on hybrid data preprocessing and multi-objective optimization
+An improved hybrid PV‐wind power system with MPPT for water pumping applications
+A machine learning approach for modeling irregular regions with multiple owners in wind farm layout design
+Very short-term wind and solar power forecasting
+Short-term wind speed forecasting based on decomposition
+Wind power forecasting using ensemble learning for day-ahead energy trading
+A novel ensemble model for long-term forecasting of wind and hydro power generation
+A machine learning-based gradient boosting regression approach for wind power production forecasting: A step towards smart grid environments
+Wind power forecasting based on singular spectrum analysis and a new hybrid Laguerre neural network

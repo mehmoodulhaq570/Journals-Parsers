@@ -7,6 +7,6 @@ def count_pdfs_in_directory(directory_path):
     return pdf_count
 
 # Example usage
-directory_path = r"your\directory\path\here"  # Replace with your actual path
+directory_path = r"D:\Research Paper\Wind Research Paper\Review Reference Papers"  # Replace with your actual path
 pdf_count = count_pdfs_in_directory(directory_path)
 print(f"Total PDF files found: {pdf_count}")
