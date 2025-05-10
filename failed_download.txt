@@ -1,1 +1,10 @@
 A 5-day wind speed & power forecasts using a layer recurrent neural network (LRNN)
+WindGMMN: Scenario Forecasting for Wind Power Using Generative Moment Matching Networks.
+Short-term wind power forecasting and uncertainty analysis based on FCM WOA ELM GMM.
+Short-Term Interval Prediction of Wind Power Based on KELM and a Universal Tabu Search Algorithm
+M2STAN: Multi-modal multi-task spatiotemporal attention network for multi-location ultra-short-term wind power multi-step predictions.
+Short-term wind power probabilistic forecasting using a new neural computing approach: GMC-DeepNN-PF.
+Wind Energy in Europe 2020 Statistics and the Outlook for 2021 2025
+Short-term PredictionAn Overview
+Ultra-short-term probabilistic wind power forecasting with spatial-temporal multi-scale features and K-FSDW based weight.
+Regional Wind Power Probabilistic Forecasting Based on an Improved Kernel Density Estimation, Regular Vine Copulas, and Ensemble Learning

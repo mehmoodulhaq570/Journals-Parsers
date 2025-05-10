@@ -42,7 +42,7 @@ def main():
         for filename, _ in normalized_filenames:
             similarity_score = fuzz.token_set_ratio(title.lower(), filename.lower())
 
-            if similarity_score >= 65:
+            if similarity_score >= 75:
                 print(f'MATCHED: "{title}" <==> "{filename}"')
                 matched = True
                 matched_titles.append(title)

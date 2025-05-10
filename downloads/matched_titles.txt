@@ -1,3 +1,9 @@
-AWNN-Assisted wind power forecasting using feed-forward neural network
-Hybrid forecasting model for very-short term wind power forecasting based on grey relational analysis and wind speed distribution features
-Ensemble recurrent neural network based probabilistic wind speed forecasting approach
+Spatio-temporal Convolutional Network Based Power Forecasting of Multiple Wind Farms
+Ultra-short-term wind power interval prediction based on hybrid temporal inception convolutional network model.
+A Cyber-Secure Generalized Supermodel for Wind Power Forecasting Based on Deep Federated Learning and Image Processing
+Wind Power Short-Term Forecasting Method Based on LSTM and Multiple Error Correction.
+Priori-guided and Data-driven Hybrid Model for Wind Power Forecasting
+A high-accuracy hybrid method for short-term wind power forecasting.
+Short-term power prediction for renewable energy using hybrid graph convolutional network and long short-term memory approach.
+A Novel Hybrid Neural Network-Based Day-Ahead Wind Speed Forecasting Technique
+A Hybrid Intelligent Framework for Forecasting Short-Term Hourly Wind Speed Based on Machine Learning
